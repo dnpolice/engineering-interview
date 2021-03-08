@@ -1,0 +1,24 @@
+{
+  "name": "engineering-interview",
+  "version": "1.0.0",
+  "description": "The purpose of this challenge is to gauge your experience with writing mapping and validation functions for transferring data from one data model to another. It’s one of the important aspects of the product that we are building, and provides helpful context around your comfort level and design choices working with integrations. The systems we work with sometimes have undocumented behavior when it comes to the way their data models interface with ours, which means we have to be creative.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dnpolice/engineering-interview.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dnpolice/engineering-interview/issues"
+  },
+  "homepage": "https://github.com/dnpolice/engineering-interview#readme",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "express": "^4.17.1"
+  }
+}
